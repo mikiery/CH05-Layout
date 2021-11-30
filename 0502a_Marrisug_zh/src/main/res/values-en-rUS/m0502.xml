@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string name="m0502_t001">性別:</string>-->
+<!--    <string name="m0502_s001">性別選擇</string>-->
+
+<!--    <string name="hint">請輸入年齡</string>-->
+<!--    <string name="nospace">請勿輸入空白</string>-->
+<!--    <string name="zero">0</string>-->
+
+<!--    <string name="m0502_b001">婚姻建議</string>-->
+<!--    <string name="m0502_t002">年齡:</string>-->
+<!--    <string name="m0502_t003">結果:</string>-->
+
+<!--    <string-array name="m0502_a001">-->
+<!--        <item>男性</item>-->
+<!--        <item>女性</item>-->
+<!--    </string-array>-->
+
+<!--    <string name="m0502_f000">建議您:</string>-->
+<!--    <string name="m0502_f001">還年輕不用急。</string>-->
+<!--    <string name="m0502_f002">此時結婚最好。</string>-->
+<!--    <string name="m0502_f003">快點找伴侶，已經遲啦。</string>-->
+
+<!--    <string name="m0502_f004">Input Age:</string>-->
+
+<!--    <string name="chk01">Male</string>-->
+    <string name="m0502_t001">Gender:</string>
+    <string name="m0502_s001">Choice Gender:</string>
+    <string name="m0502_b001">Apply</string>
+    <string name="m0502_t003">Result:</string>
+    <string name="m0502_f001">Too Young.(m)</string>
+    <string name="m0502_f002">Get Married now!!(m)</string>
+    <string name="m0502_f003">Find Wife(m)</string>
+    <string name="m0502_f004">Too Young.(f)</string>
+    <string name="m0502_f005">Get Married now!!(f)</string>
+    <string name="m0502_f006">Find Husband(f)</string>
+    <string name="m0502_t002">Age:</string>
+    <string name="chk01">Male</string>
+    <string name="m0502_f000">Suggest:</string>
+    <string name="m0502_r001a">Male</string>
+    <string name="m0502_r001b">Famale</string>
+    <string name="m0502_r002aa">Under 28</string>
+    <string name="m0502_r002ab">28~33</string>
+    <string name="m0502_r002ac">Over 33</string>
+    <string name="m0502_r002ba">Under 25</string>
+    <string name="m0502_r002bb">25~30</string>
+    <string name="m0502_r002bc">Over 30</string>
+</resources>

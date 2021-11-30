@@ -1,0 +1,22 @@
+{
+  "item_list": [
+    {
+      "itemID": "1",
+      "name": "香蕉",
+      "description": "營養豐富的水果",
+      "detail": "HP+10"
+    },
+    {
+      "itemID": "2",
+      "name": "手斧",
+      "description": "與其說是武器不如說是工具",
+      "detail": "攻擊力+10"
+    },
+    {
+      "itemID": "3",
+      "name": "小圓盾",
+      "description": "方便使用的小型盾牌",
+      "detail": "防禦力+10"
+    }
+  ]
+}

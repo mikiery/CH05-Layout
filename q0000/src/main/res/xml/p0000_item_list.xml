@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item_list>
+        <itemId id="0001">
+            <name>香蕉</name>
+            <description>營養豐富的水果</description>
+            <detail>HP+10</detail>
+        </itemId>
+        <itemId id="0002">
+            <name>手斧</name>
+            <description>與其說是武器不如說是工具</description>
+            <detail>攻擊力+10</detail>
+        </itemId>
+        <itemId id="0003">
+            <name>小圓盾</name>
+            <description>方便使用的小型盾牌</description>
+            <detail>防禦力+10</detail>
+        </itemId>
+    </item_list>
+</resources>

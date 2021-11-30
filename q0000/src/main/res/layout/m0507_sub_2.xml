@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/m0507_sub_2_ll001"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:clickable="true"
+    android:orientation="vertical"
+    tools:context=".M0507_sub_2">
+
+    <TextView
+        android:id="@+id/m0507_sub_2_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="十連抽結果"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <GridView
+        android:id="@+id/m0507_sub_2_gv001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3">
+
+    </GridView>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/m0507_sub_2_b001"
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:text="回到主頁面" />
+
+        <Button
+            android:id="@+id/m0507_sub_2_b002"
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:text="繼續抽" />
+    </TableRow>
+</LinearLayout>

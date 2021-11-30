@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item_list>
+        <itemID id ="0">
+            <name>Dummy</name>
+            <description>A dummy</description>
+            <detail>none</detail>
+        </itemID>
+        <itemID id ="1">
+            <name>香蕉</name>
+            <description>營養豐富的水果</description>
+            <detail>HP+10</detail>
+        </itemID>
+        <itemID id ="2">
+            <name>手斧</name>
+            <description>與其說是武器不如說是工具</description>
+            <detail>攻擊力+10</detail>
+        </itemID>
+        <itemID id = "3">
+            <name>小圓盾</name>
+            <description>方便使用的小型盾牌</description>
+            <detail>防禦力+10</detail>
+        </itemID>
+        <itemID id = "4">
+            <name>綠色草藥</name>
+            <description>綠色的、有治療效果的草藥</description>
+            <detail>HP+20</detail>
+        </itemID>
+        <itemID id = "5">
+            <name>藍色草藥</name>
+            <description>藍色的、有解毒效果的草藥</description>
+            <detail>解除中毒異常狀態</detail>
+        </itemID>
+        <itemID id = "6">
+            <name>布甲</name>
+            <description>用加工過的纖維製成的身體防具</description>
+            <detail>防禦力+20</detail>
+        </itemID>
+        <itemID id = "7">
+            <name>長劍</name>
+            <description>最通用的武器</description>
+            <detail>攻擊力+20</detail>
+        </itemID>
+        <itemID id = "8">
+            <name>迴力鏢</name>
+            <description>會自動飛回來的投擲武器</description>
+            <detail>攻擊力+5、全體攻擊</detail>
+        </itemID>
+        <itemID id = "9">
+            <name>皮帽</name>
+            <description>獸皮製，保暖用的帽子</description>
+            <detail>防禦力+5</detail>
+        </itemID>
+    </item_list>
+</resources>

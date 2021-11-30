@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="test_itemCategory">
+        <item>事件道具</item>
+        <item>消耗品</item>
+        <item>裝備</item>
+        <item>販賣物</item>
+    </string-array>
+
+    <string-array name="test_item_list">
+        <item>治療藥水</item>
+        <item>香蕉</item>
+        <item>手斧</item>
+        <item>小圓盾</item>
+    </string-array>
+</resources>

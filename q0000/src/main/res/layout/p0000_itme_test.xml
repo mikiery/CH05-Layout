@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/label_item_llayout"
+    android:layout_width="match_parent"
+    android:layout_height="96dp"
+    android:layout_weight="2"
+    android:background="@color/Gray"
+    android:orientation="horizontal">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/label_item_icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:background="@color/Aqua"
+            app:srcCompat="@android:mipmap/sym_def_app_icon" />
+
+        <TextView
+            android:id="@+id/label_item_count"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:background="@color/Silver"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="00"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:translationX="60dp"
+            android:translationY="60dp" />
+    </androidx.cardview.widget.CardView>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+                <TextView
+                    android:id="@+id/label_item_ID"
+                    android:layout_width="48dp"
+                    android:layout_height="wrap_content"
+                    android:text="TextView" />
+
+                <TextView
+                    android:id="@+id/label_item_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="TextView"
+                    android:textColor="@color/Lime"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TextView
+                android:id="@+id/label_item_description"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/label_item_detail"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:text="說明文打這裡"
+                android:textColor="@color/white"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </TableRow>
+
+</LinearLayout>
